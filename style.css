@@ -259,7 +259,7 @@ body {
 
 /* RESPONSIVE WEB HANDPHONE */
 
-@media (max-width: 768px) {
+@media screen and (max-width: 778px) {
     .logo {
         font-size: 15px;
     }
